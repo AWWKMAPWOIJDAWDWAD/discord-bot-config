@@ -1,1 +1,9 @@
-{"keys": [{"key": "some_random_key_1", "expiration": "2024-12-31T23:59:59", "description": "Key valid for one year"}, {"key": "some_random_key_2", "expiration": "2025-01-01T00:00:00", "description": "Key valid for unlimited"}, {"key": "hanzzboyz", "expiration": "UNLIMITED", "description": "Unli"}]}
+{
+    "keys": [
+        {
+            "key": "some_random_key_1",
+            "expiration": "2024-12-31T23:59:59",
+            "description": "Key valid for one year"
+        }
+    ]
+}
